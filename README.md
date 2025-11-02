@@ -126,7 +126,3 @@ lung-segmentation-cuda-utilized/
 
 
 
-
----
-
-**Note**: This project demonstrates practical GPU acceleration in medical imaging, achieving significant performance improvements while maintaining clinical accuracy standards.
