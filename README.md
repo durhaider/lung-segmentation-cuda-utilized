@@ -110,19 +110,6 @@ lung-segmentation-cuda-utilized/
 └── README.md                 # Documentation
 ```
 - You may put cmakelists.txt into src (recommended)
-## Troubleshooting
-
-### Build Issues
-
-**CUDA Architecture Mismatch:**
-- Update `CMAKE_CUDA_ARCHITECTURES` in `CMakeLists.txt` to match your GPU
-
-**Missing CUDA Toolkit:**
-- Install NVIDIA CUDA Toolkit and ensure it's in system PATH
-
-**Visual Studio Errors:**
-- Verify C++ desktop development workload is installed
-
 
 
 
