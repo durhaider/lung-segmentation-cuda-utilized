@@ -123,18 +123,7 @@ lung-segmentation-cuda-utilized/
 **Visual Studio Errors:**
 - Verify C++ desktop development workload is installed
 
-### Runtime Issues
 
-**DICOM Path Not Found:**
-- Use absolute paths with quotes for folders containing spaces
-- Verify folder contains valid DICOM files
-
-**Out of Memory:**
-- Monitor GPU memory with `nvidia-smi`
-- Reduce dataset size or processing resolution
-
-**Invalid Slice Index:**
-- Ensure slice number exists in your DICOM dataset
 
 
 
